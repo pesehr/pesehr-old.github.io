@@ -415,9 +415,10 @@ iframe{width:100%;frameborder:0;display:inline-block;}
 	color: #000;
 }	
 	
-
-	
-
+.justify{
+	text-align: justify;
+	text-justify: inter-word;
+}
 	
 .social li a, .timeline:after, .exp:after, .spinner, .spinner:after, .address-info .ico-back, .contact-info li .ico, .contact-info li .ico-back, .spinner, .block-quote .block-img img, .block-quote .block-icon,  .block-nav-work li a, .address-info i  {
 	    border-radius: 100%;

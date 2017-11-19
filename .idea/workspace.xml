@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c56b45a-eb93-42bf-9f8a-10b3243aa656" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/base.css" afterPath="$PROJECT_DIR$/css/base.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -21,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="995">
-              <caret line="130" column="54" lean-forward="false" selection-start-line="130" selection-start-column="54" selection-end-line="130" selection-end-column="54" />
+            <state relative-caret-position="632">
+              <caret line="229" column="71" lean-forward="false" selection-start-line="229" selection-start-column="71" selection-end-line="229" selection-end-column="71" />
               <folding>
                 <element signature="e#2108#2113#1" expanded="true" />
                 <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -57,8 +55,8 @@
       <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="414" column="15" lean-forward="false" selection-start-line="414" selection-start-column="12" selection-end-line="414" selection-end-column="15" />
+            <state relative-caret-position="1066">
+              <caret line="419" column="29" lean-forward="false" selection-start-line="419" selection-start-column="29" selection-end-line="419" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -756,12 +754,20 @@
       <option name="presentableId" value="Default" />
       <updated>1511016445400</updated>
       <workItem from="1511016455173" duration="6573000" />
-      <workItem from="1511111972048" duration="1870000" />
+      <workItem from="1511111972048" duration="3131000" />
     </task>
+    <task id="LOCAL-00001" summary="Bold smt">
+      <created>1511115008931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511115008931</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8443000" />
+    <option name="totallyTimeSpent" value="9704000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3026" height="1966" extended-state="6" />
@@ -804,6 +810,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bold smt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bold smt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -877,16 +887,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="414" column="15" lean-forward="false" selection-start-line="414" selection-start-column="12" selection-end-line="414" selection-end-column="15" />
+        <state relative-caret-position="1066">
+          <caret line="419" column="29" lean-forward="false" selection-start-line="419" selection-start-column="29" selection-end-line="419" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="995">
-          <caret line="130" column="54" lean-forward="false" selection-start-line="130" selection-start-column="54" selection-end-line="130" selection-end-column="54" />
+        <state relative-caret-position="632">
+          <caret line="229" column="71" lean-forward="false" selection-start-line="229" selection-start-column="71" selection-end-line="229" selection-end-column="71" />
           <folding>
             <element signature="e#2108#2113#1" expanded="true" />
             <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
