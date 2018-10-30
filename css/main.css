@@ -587,6 +587,10 @@
 	content: '\e80c';
 }
 
+.timeline.research:after{
+	content: '\e912';
+}
+
 
 .exp{
 	padding-left: 50px;
