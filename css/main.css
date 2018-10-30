@@ -591,6 +591,14 @@
 	content: '\e912';
 }
 
+.timeline.cloud:after{
+	content: '\e8b3';
+}
+
+.timeline.iot:after{
+	content: '\e8a8';
+}
+
 
 .exp{
 	padding-left: 50px;

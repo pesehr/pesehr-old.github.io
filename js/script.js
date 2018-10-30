@@ -37,7 +37,79 @@ $("#block-slider").owlCarousel({
 });
 
 
+    $("#_projects").on('click', function (e) {
+        $("#uniproject").show()
+        $("#courseproject").hide()
+        $("#workproject").hide()
+        $("#iotdetails").hide()
 
+        $("#_uniproject").css("background-color", "lightgrey")
+        $("#_courseproject").css("background-color", "white")
+        $("#_workproject").css("background-color", "white")
+    })
+
+    $("#_courseproject").on('click', function (e) {
+			$("#uniproject").hide()
+			$("#courseproject").show()
+			$("#workproject").hide()
+			$("#iotdetails").hide()
+
+			$("#_uniproject").css("background-color", "white")
+			$("#_courseproject").css("background-color", "lightgrey")
+			$("#_workproject").css("background-color", "white")
+    })
+    $("#_uniproject").on('click', function (e) {
+        $("#uniproject").show()
+        $("#courseproject").hide()
+        $("#workproject").hide()
+        $("#iotdetails").hide()
+
+        $("#_uniproject").css("background-color", "lightgrey")
+        $("#_courseproject").css("background-color", "white")
+        $("#_workproject").css("background-color", "white")
+    })
+
+
+    $("#iotmore").on('click', function (e) {
+        $("#uniproject").hide()
+        $("#courseproject").hide()
+        $("#workproject").hide()
+        $("#iotdetails").show()
+
+        $("#_uniproject").css("background-color", "white")
+        $("#_courseproject").css("background-color", "white")
+        $("#_workproject").css("background-color", "white")
+    })
+
+
+    $("#_workproject").on('click', function (e) {
+        $("#uniproject").hide()
+        $("#courseproject").hide()
+        $("#workproject").show()
+        $("#iotdetails").hide()
+
+        $("#_uniproject").css("background-color", "white")
+        $("#_courseproject").css("background-color", "white")
+        $("#_workproject").css("background-color", "lightgrey")
+    })
+
+    $("#fogtab").on('click', function (e) {
+
+        $("#iotsection").hide()
+        $("#fogsection").show()
+
+        $("#iottab").css("background-color", "white")
+        $("#fogtab").css("background-color", "lightgrey")
+    })
+
+    $("#iottab").on('click', function (e) {
+
+        $("#iotsection").show()
+        $("#fogsection").hide()
+
+        $("#iottab").css("background-color", "lightgrey")
+        $("#fogtab").css("background-color", "white")
+    })
 
 //------------------------------------- End site slider------------------------------------------------//
 
