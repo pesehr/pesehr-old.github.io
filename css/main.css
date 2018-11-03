@@ -611,6 +611,12 @@
 	margin-bottom:10px;
 }
 
+a>.bold{
+    color: #558E6A;
+}
+a{
+    color: #558E6A;
+}
 
 .exp:after{
  	background: #558e6a;
