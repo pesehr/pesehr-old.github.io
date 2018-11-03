@@ -595,6 +595,10 @@
 	content: '\e8b3';
 }
 
+.timeline.teach:after{
+	content: '\e833';
+}
+
 .timeline.iot:after{
 	content: '\e8a8';
 }
