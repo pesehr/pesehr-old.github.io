@@ -6,6 +6,32 @@
 jQuery(window).load(function() {
 		jQuery("#loaderInner").fadeOut();
 		jQuery("#loader").delay(200).fadeOut("slow");
+		if(window.location.href.includes("platform")) {
+            $("#projects").show()
+            $("#about").hide()
+            $("#uniproject").hide()
+            $("#courseproject").hide()
+            $("#workproject").hide()
+            $("#iotdetails").show()
+            $("#lightsdetails").hide()
+
+            $("#_uniproject").css("background-color", "white")
+            $("#_courseproject").css("background-color", "white")
+            $("#_workproject").css("background-color", "white")
+        }
+    if(window.location.href.includes("light")) {
+        $("#projects").show()
+        $("#about").hide()
+        $("#uniproject").hide()
+        $("#courseproject").hide()
+        $("#workproject").hide()
+        $("#iotdetails").hide()
+        $("#lightsdetails").show()
+
+        $("#_uniproject").css("background-color", "white")
+        $("#_courseproject").css("background-color", "white")
+        $("#_workproject").css("background-color", "white")
+    }
 });
 
 $(document).ready(function(){
