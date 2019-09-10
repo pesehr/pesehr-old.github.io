@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3432453f-ac17-4fdb-bf49-3c1c308ed6d9" name="Default" comment="">
+    <list default="true" id="3432453f-ac17-4fdb-bf49-3c1c308ed6d9" name="Default" comment="Add ucalgary">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,12 +33,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="420" />
+          <entry key="html" value="428" />
+          <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="420" />
+          <entry key="HTML" value="428" />
+          <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
     </session>
@@ -52,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="276" lean-forward="true" selection-start-line="276" selection-end-line="276" />
+            <state relative-caret-position="329">
+              <caret line="231" column="82" selection-start-line="231" selection-start-column="80" selection-end-line="231" selection-end-column="82" />
               <folding>
                 <element signature="e#2717#2722#1" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#0;n#diنv#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -113,12 +114,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="124" />
-    <option name="width" value="1910" />
-    <option name="height" value="879" />
+    <option name="x" value="2031" />
+    <option name="y" value="313" />
+    <option name="width" value="1902" />
+    <option name="height" value="887" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -139,7 +141,22 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="pesehr.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="pesehr.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="files" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -148,7 +165,7 @@
     <property name="SearchEverywhereHistoryKey" value="comment&#9;ACTION&#9;CommentByLineComment" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568147883356" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568148770273" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
   </component>
@@ -231,23 +248,29 @@
       <option name="project" value="LOCAL" />
       <updated>1541524077800</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add ucalgary">
+      <created>1568147916408</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568147916408</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="18991000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1922" height="1176" extended-state="6" />
-    <editor active="true" />
+    <frame x="1919" y="0" width="1922" height="1201" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4995197" visible="true" weight="0.25133404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990619" visible="true" weight="0.25133404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5004803" side_tool="true" visible="true" weight="0.25133404" />
+      <window_info id="Favorites" order="6" sideWeight="0.50093806" side_tool="true" visible="true" weight="0.25133404" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -282,7 +305,8 @@
     <MESSAGE value="Add teaching section" />
     <MESSAGE value="update" />
     <MESSAGE value="Add google analytics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add google analytics" />
+    <MESSAGE value="Add ucalgary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ucalgary" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/blog.html">
@@ -322,8 +346,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="276" lean-forward="true" selection-start-line="276" selection-end-line="276" />
+        <state relative-caret-position="329">
+          <caret line="231" column="82" selection-start-line="231" selection-start-column="80" selection-end-line="231" selection-end-column="82" />
           <folding>
             <element signature="e#2717#2722#1" expanded="true" />
             <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#0;n#diنv#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
