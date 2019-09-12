@@ -13,6 +13,7 @@ jQuery(window).load(function() {
             $("#courseproject").hide()
             $("#workproject").hide()
             $("#iotdetails").show()
+            $("#CPSC231F19").hide()
             $("#lightsdetails").hide()
 
             $("#_uniproject").css("background-color", "white")
@@ -26,6 +27,7 @@ jQuery(window).load(function() {
         $("#courseproject").hide()
         $("#workproject").hide()
         $("#iotdetails").hide()
+         $("#CPSC231F19").hide()
         $("#lightsdetails").show()
 
         $("#_uniproject").css("background-color", "white")
@@ -68,7 +70,7 @@ $("#block-slider").owlCarousel({
         $("#courseproject").hide()
         $("#workproject").hide()
         $("#iotdetails").hide()
-
+ $("#CPSC231F19").hide()
         $("#_uniproject").css("background-color", "lightgrey")
         $("#_courseproject").css("background-color", "white")
         $("#_workproject").css("background-color", "white")
@@ -80,7 +82,7 @@ $("#block-slider").owlCarousel({
 			$("#workproject").hide()
 			$("#iotdetails").hide()
       $("#lightsdetails").hide()
-
+ $("#CPSC231F19").hide()
 			$("#_uniproject").css("background-color", "white")
 			$("#_courseproject").css("background-color", "lightgrey")
 			$("#_workproject").css("background-color", "white")
@@ -91,7 +93,7 @@ $("#block-slider").owlCarousel({
         $("#workproject").hide()
         $("#iotdetails").hide()
       $("#lightsdetails").hide()
-
+ $("#CPSC231F19").hide()
         $("#_uniproject").css("background-color", "lightgrey")
         $("#_courseproject").css("background-color", "white")
         $("#_workproject").css("background-color", "white")
@@ -104,7 +106,7 @@ $("#block-slider").owlCarousel({
         $("#workproject").hide()
         $("#iotdetails").show()
       $("#lightsdetails").hide()
-
+ $("#CPSC231F19").hide()
         $("#_uniproject").css("background-color", "white")
         $("#_courseproject").css("background-color", "white")
         $("#_workproject").css("background-color", "white")
@@ -116,19 +118,30 @@ $("#block-slider").owlCarousel({
     $("#workproject").hide()
     $("#iotdetails").hide()
     $("#lightsdetails").show()
-
+ $("#CPSC231F19").hide()
     $("#_uniproject").css("background-color", "white")
     $("#_courseproject").css("background-color", "white")
     $("#_workproject").css("background-color", "white")
   })
 
 
+    $("#_CPSC231F19").on('click', function (e) {
+        $("#uniproject").hide()
+        $("#courseproject").hide()
+        $("#workproject").hide()
+        $("#iotdetails").hide()
+        $("#CPSC231F19").show()
+        $("#_uniproject").css("background-color", "white")
+        $("#_courseproject").css("background-color", "white")
+        $("#_workproject").css("background-color", "lightgrey")
+    })
+
     $("#_workproject").on('click', function (e) {
         $("#uniproject").hide()
         $("#courseproject").hide()
         $("#workproject").show()
         $("#iotdetails").hide()
-
+ $("#CPSC231F19").hide()
         $("#_uniproject").css("background-color", "white")
         $("#_courseproject").css("background-color", "white")
         $("#_workproject").css("background-color", "lightgrey")
@@ -138,7 +151,7 @@ $("#block-slider").owlCarousel({
 
         $("#iotsection").hide()
         $("#fogsection").show()
-
+ $("#CPSC231F19").hide()
         $("#iottab").css("background-color", "white")
         $("#fogtab").css("background-color", "lightgrey")
     })
@@ -147,7 +160,7 @@ $("#block-slider").owlCarousel({
 
         $("#iotsection").show()
         $("#fogsection").hide()
-
+ $("#CPSC231F19").hide()
         $("#iottab").css("background-color", "lightgrey")
         $("#fogtab").css("background-color", "white")
     })
