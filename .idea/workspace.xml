@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3432453f-ac17-4fdb-bf49-3c1c308ed6d9" name="Default" comment="Worksheet 2 solution">
-      <change afterPath="$PROJECT_DIR$/files/w2p1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/w2p2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/w2p3.py" afterDir="false" />
+    <list default="true" id="3432453f-ac17-4fdb-bf49-3c1c308ed6d9" name="Default" comment="Worksheet 3">
+      <change afterPath="$PROJECT_DIR$/files/worksheet05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,40 +13,6 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="pesehr.github.io" />
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>class=&quot;center&quot;</find>
-      <find>Pedram</find>
-      <find>~rasti</find>
-      <find>tab</find>
-      <find>8226</find>
-      <find>Germany</find>
-      <find>German</find>
-      <find>report</find>
-      <find>technical re</find>
-      <find>lorawan</find>
-      <find>sepehr sa</find>
-      <find>iotmore</find>
-      <find>iotplatform</find>
-      <find>Amirkabir Scalable IoT Platform (ASITP)</find>
-      <find>iotdetails</find>
-      <find>display</find>
-      <find>js</find>
-      <find>Education</find>
-      <find>#education</find>
-      <find>#unipro</find>
-      <find>mater</find>
-      <find>uniprojects</find>
-      <find>uniproj</find>
-      <find>uniproject</find>
-      <find>hidden</find>
-      <find>CPSC231F19</find>
-      <find>cv</find>
-      <find>.pdf</find>
-      <find>Tutor</find>
-      <find>files</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -113,7 +76,11 @@
       <workItem from="1547221930331" duration="9000" />
       <workItem from="1548170619612" duration="33000" />
       <workItem from="1549627048921" duration="448000" />
-      <workItem from="1569017023383" duration="1318000" />
+      <workItem from="1569017023383" duration="1939000" />
+      <workItem from="1569201166088" duration="89000" />
+      <workItem from="1569201265833" duration="2561000" />
+      <workItem from="1569335666006" duration="3324000" />
+      <workItem from="1569790285540" duration="11082000" />
     </task>
     <task id="LOCAL-00001" summary="Add Project description">
       <created>1541011530403</created>
@@ -164,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568743437996</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Worksheet 3">
+      <created>1569336706849</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569336706849</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +149,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -189,6 +165,7 @@
     <MESSAGE value="Add ucalgary" />
     <MESSAGE value="Worksheet 1 solution" />
     <MESSAGE value="Worksheet 2 solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Worksheet 2 solution" />
+    <MESSAGE value="Worksheet 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Worksheet 3" />
   </component>
 </project>
