@@ -1,7 +1,7 @@
 '''
 Program name: Worksheet05
 Program description: Develop a program that convert numbers in different bases.
-Use oct() bin() hex() char() ord() and int() to complete the following code
+Use oct() bin() hex() chr() ord() and int() to complete the following code
 '''
 
 input_base = input("Please enter the base of the input number (b:binary, d:decimal, o:octal, h:hexadecimal, c:char) :")
