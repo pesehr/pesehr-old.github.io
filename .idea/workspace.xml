@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3432453f-ac17-4fdb-bf49-3c1c308ed6d9" name="Default" comment="Add worksheet 6">
-      <change afterPath="$PROJECT_DIR$/files/3OCT.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/Worksheet06.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/exercise07.py" beforeDir="false" afterPath="$PROJECT_DIR$/files/exercise07.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +13,13 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="pesehr.github.io" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -32,13 +37,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files" />
+      <recent name="N:\homepage\pesehr.github.io\files" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/files" />
       <recent name="$PROJECT_DIR$/files/Worksheet 1 solution" />
-      <recent name="N:\homepage\pesehr.github.io\files" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/files" />
       <recent name="N:\homepage\pesehr.github.io\files" />
     </key>
   </component>
@@ -86,6 +91,7 @@
       <workItem from="1569790285540" duration="12477000" />
       <workItem from="1570060047839" duration="191000" />
       <workItem from="1570062262956" duration="2859000" />
+      <workItem from="1570545291415" duration="691000" />
     </task>
     <task id="LOCAL-00001" summary="Add Project description">
       <created>1541011530403</created>
@@ -164,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570060201909</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add worksheet 6">
+      <created>1570545493909</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1570545493909</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
