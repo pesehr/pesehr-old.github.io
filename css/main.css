@@ -686,7 +686,47 @@ a{
 
 
 
+.nested {
+    display: none;
+    margin-top: 3px;
+}
 
+.active {
+    display: block;
+}
+
+ul, #myUL {
+    list-style-type: none;
+}
+
+/* Remove margins and padding from the parent ul */
+#myUL {
+    margin: 0;
+    padding: 0;
+}
+
+
+.caret {
+    display: contents;
+    cursor: pointer;
+    -webkit-user-select: none; /* Safari 3.1+ */
+    -moz-user-select: none; /* Firefox 2+ */
+    -ms-user-select: none; /* IE 10+ */
+    user-select: none;
+}
+
+/*.caret::before {*/
+/*    content: "\25B6";*/
+/*    color: black;*/
+/*    display: inline-block;*/
+/*    margin-right: 6px;*/
+/*}*/
+
+.caret-down::before {
+    -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Safari */'
+transform: rotate(90deg);
+}
 
 
 
