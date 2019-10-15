@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3432453f-ac17-4fdb-bf49-3c1c308ed6d9" name="Default" comment="bug fix">
+    <list default="true" id="3432453f-ac17-4fdb-bf49-3c1c308ed6d9" name="Default" comment="Add tree view">
+      <change afterPath="$PROJECT_DIR$/files/w8p1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/w8p2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +98,7 @@
       <workItem from="1570717981661" duration="610000" />
       <workItem from="1570724033221" duration="32000" />
       <workItem from="1570724767833" duration="317000" />
-      <workItem from="1571163363526" duration="1164000" />
+      <workItem from="1571163363526" duration="2312000" />
     </task>
     <task id="LOCAL-00001" summary="Add Project description">
       <created>1541011530403</created>
@@ -205,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570724783930</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add tree view">
+      <created>1571164825334</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1571164825334</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +247,7 @@
     <MESSAGE value="Add exercise 7" />
     <MESSAGE value="Add worksheet08" />
     <MESSAGE value="bug fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug fix" />
+    <MESSAGE value="Add tree view" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add tree view" />
   </component>
 </project>
