@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3432453f-ac17-4fdb-bf49-3c1c308ed6d9" name="Default" comment="Bug fix :bug:" />
+    <list default="true" id="3432453f-ac17-4fdb-bf49-3c1c308ed6d9" name="Default" comment="5 Nov" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +34,13 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/files" />
-      <recent name="N:\homepage\pesehr.github.io\files" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/files" />
       <recent name="$PROJECT_DIR$/files/Worksheet 1 solution" />
+      <recent name="N:\homepage\pesehr.github.io\files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files" />
       <recent name="N:\homepage\pesehr.github.io\files" />
     </key>
   </component>
@@ -100,7 +100,7 @@
       <workItem from="1572533585808" duration="828000" />
       <workItem from="1572820103618" duration="27000" />
       <workItem from="1572919892739" duration="623000" />
-      <workItem from="1572921319969" duration="896000" />
+      <workItem from="1572921319969" duration="1254000" />
     </task>
     <task id="LOCAL-00001" summary="Add Project description">
       <created>1541011530403</created>
@@ -249,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572921613710</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="5 Nov">
+      <created>1572969186053</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1572969186053</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,6 +297,7 @@
     <MESSAGE value="29 oct" />
     <MESSAGE value="31 oct" />
     <MESSAGE value="Bug fix :bug:" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug fix :bug:" />
+    <MESSAGE value="5 Nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="5 Nov" />
   </component>
 </project>
